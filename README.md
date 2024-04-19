@@ -1,1 +1,1 @@
-# mlai - machine learning & AI tools
+# MlAi - Machine Learning & AI tools
